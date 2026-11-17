@@ -1,0 +1,555 @@
+year,date,shift,subject,chapter,questions,marks
+2026,21-01-2026,1,Physics,Thermal Properties & Thermodynamics,3,12
+2026,21-01-2026,1,Physics,"Units, Dimensions & Errors",2,8
+2026,21-01-2026,1,Physics,"Laws of Motion & Work, Power, Energy",2,8
+2026,21-01-2026,1,Physics,Rotational Motion,2,8
+2026,21-01-2026,1,Physics,Electrostatics & Capacitance,2,8
+2026,21-01-2026,1,Physics,Electromagnetic Induction (EMI),2,8
+2026,21-01-2026,1,Physics,Ray Optics & Optical Instruments,2,8
+2026,21-01-2026,1,Physics,Mechanical Properties of Fluids,1,4
+2026,21-01-2026,1,Physics,Gravitation,1,4
+2026,21-01-2026,1,Physics,Waves & Sound,1,4
+2026,21-01-2026,1,Physics,Current Electricity,1,4
+2026,21-01-2026,1,Physics,Moving Charges and Magnetism,1,4
+2026,21-01-2026,1,Physics,Electromagnetic Waves,1,4
+2026,21-01-2026,1,Physics,Wave Optics,1,4
+2026,21-01-2026,1,Physics,Dual Nature of Radiation & Matter,1,4
+2026,21-01-2026,1,Physics,Atoms & Nuclei,1,4
+2026,21-01-2026,1,Physics,Semiconductors & Logic Gates,1,4
+2026,21-01-2026,1,Chemistry,General Organic Chemistry (GOC) & Isomerism,3,12
+2026,21-01-2026,1,Chemistry,Chemical Thermodynamics & Equilibrium,3,12
+2026,21-01-2026,1,Chemistry,"Haloalkanes, Alcohols & Carbonyl Compounds",3,12
+2026,21-01-2026,1,Chemistry,Some Basic Concepts of Chemistry (Mole Concept),2,8
+2026,21-01-2026,1,Chemistry,d- and f-Block Elements,2,8
+2026,21-01-2026,1,Chemistry,Amines & Nitrogen Compounds,2,8
+2026,21-01-2026,1,Chemistry,Structure of Atom,1,4
+2026,21-01-2026,1,Chemistry,Classification of Elements & Periodicity,1,4
+2026,21-01-2026,1,Chemistry,Chemical Bonding & Molecular Structure,1,4
+2026,21-01-2026,1,Chemistry,Solutions,1,4
+2026,21-01-2026,1,Chemistry,Electrochemistry,1,4
+2026,21-01-2026,1,Chemistry,Chemical Kinetics,1,4
+2026,21-01-2026,1,Chemistry,p-Block Elements,1,4
+2026,21-01-2026,1,Chemistry,Coordination Compounds,1,4
+2026,21-01-2026,1,Chemistry,Qualitative Inorganic Analysis (Salt Analysis),1,4
+2026,21-01-2026,1,Chemistry,Biomolecules,1,4
+2026,21-01-2026,1,Mathematics,Vector Algebra & 3D Geometry,3,12
+2026,21-01-2026,1,Mathematics,Sequences and Series,2,8
+2026,21-01-2026,1,Mathematics,"Sets, Relations & Functions",2,8
+2026,21-01-2026,1,Mathematics,Permutations and Combinations,2,8
+2026,21-01-2026,1,Mathematics,Complex Numbers & Quadratic Equations,2,8
+2026,21-01-2026,1,Mathematics,Conic Sections (Parabola & Hyperbola),2,8
+2026,21-01-2026,1,Mathematics,Definite Integration & Area Under Curves,2,8
+2026,21-01-2026,1,Mathematics,Differential Equations,2,8
+2026,21-01-2026,1,Mathematics,Binomial Theorem,1,4
+2026,21-01-2026,1,Mathematics,Matrices and Determinants,1,4
+2026,21-01-2026,1,Mathematics,"Limits, Continuity & Differentiability",1,4
+2026,21-01-2026,1,Mathematics,Straight Lines,1,4
+2026,21-01-2026,1,Mathematics,Circles,1,4
+2026,21-01-2026,1,Mathematics,Trigonometry,1,4
+2026,21-01-2026,1,Mathematics,Statistics & Probability,1,4
+2026,21-01-2026,1,Mathematics,Indefinite / Application of Integrals,1,4
+2026,21-01-2026,2,Mathematics,Applications of Derivatives / Functions / Limits,3,12
+2026,21-01-2026,2,Mathematics,Conic Sections (Parabola & Ellipse),3,12
+2026,21-01-2026,2,Mathematics,3D Geometry & Vector Algebra,3,12
+2026,21-01-2026,2,Mathematics,Sequences and Series,2,8
+2026,21-01-2026,2,Mathematics,Definite Integration & Area Under Curves,2,8
+2026,21-01-2026,2,Mathematics,"Sets, Relations & Functions",2,8
+2026,21-01-2026,2,Mathematics,Matrices and Determinants,2,8
+2026,21-01-2026,2,Mathematics,Quadratic Equations,1,4
+2026,21-01-2026,2,Mathematics,Statistics & Probability,1,4
+2026,21-01-2026,2,Mathematics,Differential Equations,1,4
+2026,21-01-2026,2,Mathematics,Complex Numbers,1,4
+2026,21-01-2026,2,Mathematics,"Permutations, Combinations & Number Theory",1,4
+2026,21-01-2026,2,Mathematics,Inverse Trigonometric Functions,1,4
+2026,21-01-2026,2,Mathematics,Binomial Theorem,1,4
+2026,21-01-2026,2,Mathematics,Circles / Coordinate Geometry,1,4
+2026,21-01-2026,2,Physics,Current Electricity & Capacitance in Circuits,4,16
+2026,21-01-2026,2,Physics,Mechanical Properties of Fluids,3,12
+2026,21-01-2026,2,Physics,"Kinematics & Laws of Motion (including Work, Energy & Power)",3,12
+2026,21-01-2026,2,Physics,Rotational Motion (including System of Particles),2,8
+2026,21-01-2026,2,Physics,Thermodynamics & Kinetic Theory of Gases (KTG),2,8
+2026,21-01-2026,2,Physics,Wave Optics (YDSE),2,8
+2026,21-01-2026,2,Physics,"Units, Dimensions & Errors",1,4
+2026,21-01-2026,2,Physics,Gravitation & Electrostatics,1,4
+2026,21-01-2026,2,Physics,Electromagnetic Induction & AC (Oscillations),1,4
+2026,21-01-2026,2,Physics,Oscillations (SHM),1,4
+2026,21-01-2026,2,Physics,Moving Charges and Magnetism,1,4
+2026,21-01-2026,2,Physics,Electromagnetic Waves,1,4
+2026,21-01-2026,2,Physics,Ray Optics & Optical Instruments,1,4
+2026,21-01-2026,2,Physics,Dual Nature of Radiation & Matter,1,4
+2026,21-01-2026,2,Physics,Atoms,1,4
+2026,21-01-2026,2,Chemistry,General Organic Chemistry (GOC) & Isomerism,3,12
+2026,21-01-2026,2,Chemistry,Chemical Thermodynamics & Equilibrium,2,8
+2026,21-01-2026,2,Chemistry,Solutions (Colligative Properties),2,8
+2026,21-01-2026,2,Chemistry,Electrochemistry,2,8
+2026,21-01-2026,2,Chemistry,Some Basic Concepts of Chemistry (Mole Concept),2,8
+2026,21-01-2026,2,Chemistry,Chemical Bonding & Molecular Structure,2,8
+2026,21-01-2026,2,Chemistry,d- and f-Block Elements & Salt Analysis,2,8
+2026,21-01-2026,2,Chemistry,Coordination Compounds,2,8
+2026,21-01-2026,2,Chemistry,Haloalkanes & Haloarenes,2,8
+2026,21-01-2026,2,Chemistry,Chemical Kinetics,1,4
+2026,21-01-2026,2,Chemistry,Structure of Atom,1,4
+2026,21-01-2026,2,Chemistry,Classification of Elements & Periodicity,1,4
+2026,21-01-2026,2,Chemistry,p-Block Elements,1,4
+2026,21-01-2026,2,Chemistry,"Aldehydes, Ketones and Carboxylic Acids",1,4
+2026,21-01-2026,2,Chemistry,Amines & Nitrogen Compounds,1,4
+2026,21-01-2026,2,Chemistry,Biomolecules,1,4
+2026,22-01-2026,1,Chemistry,p-Block Elements,2,8
+2026,22-01-2026,1,Chemistry,Chemical Kinetics,2,8
+2026,22-01-2026,1,Chemistry,Solutions,2,8
+2026,22-01-2026,1,Chemistry,Haloalkanes & Haloarenes,2,8
+2026,22-01-2026,1,Chemistry,Coordination Compounds,1,4
+2026,22-01-2026,1,Chemistry,Chemical Bonding,1,4
+2026,22-01-2026,1,Chemistry,"Alcohols, Phenols & Ethers",1,4
+2026,22-01-2026,1,Chemistry,Atomic Structure,1,4
+2026,22-01-2026,1,Chemistry,Some Basic Concepts of Chemistry,1,4
+2026,22-01-2026,1,Chemistry,d- and f-Block Elements,1,4
+2026,22-01-2026,1,Chemistry,Thermodynamics,1,4
+2026,22-01-2026,1,Chemistry,Aromatic Compounds (Hydrocarbons),1,4
+2026,22-01-2026,1,Chemistry,Aldehydes & Ketones,1,4
+2026,22-01-2026,1,Chemistry,Biomolecules,1,4
+2026,22-01-2026,1,Chemistry,Amines,1,4
+2026,22-01-2026,1,Chemistry,Hydrocarbons (Alkenes) / Quantitative Analysis,1,4
+2026,22-01-2026,1,Chemistry,Electrochemistry,1,4
+2026,22-01-2026,1,Chemistry,Organic Chemistry: Basic Principles & Purification,1,4
+2026,22-01-2026,1,Chemistry,Chemical Equilibrium,1,4
+2026,22-01-2026,1,Mathematics,3D Geometry,2,8
+2026,22-01-2026,1,Mathematics,Probability,2,8
+2026,22-01-2026,1,Mathematics,Matrices & Determinants,2,8
+2026,22-01-2026,1,Mathematics,Definite Integration,2,8
+2026,22-01-2026,1,Mathematics,Vector Algebra,1,4
+2026,22-01-2026,1,Mathematics,Relations & Functions,1,4
+2026,22-01-2026,1,Mathematics,Area Under Curves,1,4
+2026,22-01-2026,1,Mathematics,Application of Derivatives,1,4
+2026,22-01-2026,1,Mathematics,Basic Mathematics / Inequalities,1,4
+2026,22-01-2026,1,Mathematics,Hyperbola,1,4
+2026,22-01-2026,1,Mathematics,Circles,1,4
+2026,22-01-2026,1,Mathematics,Inverse Trigonometric Functions,2,8
+2026,22-01-2026,1,Mathematics,Binomial Theorem,1,4
+2026,22-01-2026,1,Mathematics,Parabola,1,4
+2026,22-01-2026,1,Mathematics,Differential Equations,1,4
+2026,22-01-2026,1,Mathematics,Sequences & Series,1,4
+2026,22-01-2026,1,Mathematics,Complex Numbers,1,4
+2026,22-01-2026,1,Mathematics,Indefinite Integration,1,4
+2026,22-01-2026,1,Mathematics,Trigonometric Ratios & Identities,1,4
+2026,22-01-2026,1,Mathematics,Permutations & Combinations,1,4
+2026,22-01-2026,1,Physics,Rotational Motion,1,4
+2026,22-01-2026,1,Physics,Modern Physics,1,4
+2026,22-01-2026,1,Physics,Electrostatics,1,4
+2026,22-01-2026,1,Physics,Electromagnetic Induction,1,4
+2026,22-01-2026,1,Physics,Gravitation,1,4
+2026,22-01-2026,1,Physics,Current Electricity,1,4
+2026,22-01-2026,1,Physics,Kinematics & Projectile Motion,1,4
+2026,22-01-2026,1,Physics,Mechanical Properties of Fluids,1,4
+2026,22-01-2026,1,Physics,Semiconductor Electronics,1,4
+2026,22-01-2026,1,Physics,Gravitation (Net Force),1,4
+2026,22-01-2026,1,Physics,Modern Physics (Mass Defect & Binding Energy),1,4
+2026,22-01-2026,1,Physics,Kinetic Theory of Gases (Rotating Tube),1,4
+2026,22-01-2026,1,Physics,Thermal Properties of Matter (Heat Conduction),1,4
+2026,22-01-2026,1,Physics,Ray Optics (Lens Combination),1,4
+2026,22-01-2026,1,Physics,Ray Optics (Prism),1,4
+2026,22-01-2026,1,Physics,Thermodynamics (Adiabatic Process),1,4
+2026,22-01-2026,1,Physics,Electrostatics (Electric Potential),1,4
+2026,22-01-2026,1,Physics,Electrostatics (Pendulum in Electric Field),1,4
+2026,22-01-2026,1,Physics,Units & Dimensions (Dimensional Analysis),1,4
+2026,22-01-2026,1,Physics,Electromagnetic Induction (Induced Current),1,4
+2026,22-01-2026,1,Physics,Waves & Sound (Interference / Beats),1,4
+2026,22-01-2026,1,Physics,Electromagnetic Waves (Wave Equation),1,4
+2026,22-01-2026,1,Physics,Ray Optics (Refraction at Spherical Surface),1,4
+2026,22-01-2026,1,Physics,Rotational Motion (Moment of Inertia),1,4
+2026,22-01-2026,1,Physics,Electromagnetic Induction (Energy in Inductor),1,4
+2026,22-01-2026,2,Mathematics,Quadratic Equations,1,4
+2026,22-01-2026,2,Mathematics,Complex Numbers,1,4
+2026,22-01-2026,2,Mathematics,Binomial Theorem,1,4
+2026,22-01-2026,2,Mathematics,Hyperbola,1,4
+2026,22-01-2026,2,Mathematics,Relations & Functions,1,4
+2026,22-01-2026,2,Mathematics,Differential Equations,1,4
+2026,22-01-2026,2,Mathematics,Matrices & Determinants,1,4
+2026,22-01-2026,2,Mathematics,Functions (Functional Equations),1,4
+2026,22-01-2026,2,Mathematics,Ellipse,1,4
+2026,22-01-2026,2,Mathematics,Statistics,1,4
+2026,22-01-2026,2,Mathematics,Limits,1,4
+2026,22-01-2026,2,Mathematics,Area under Curves,1,4
+2026,22-01-2026,2,Mathematics,Coordinate Geometry + AP,1,4
+2026,22-01-2026,2,Mathematics,Parabola (Locus),1,4
+2026,22-01-2026,2,Mathematics,Greatest Integer Function / Definite Integrals,1,4
+2026,22-01-2026,2,Mathematics,Vector Algebra,1,4
+2026,22-01-2026,2,Mathematics,Inverse Trig / Logarithms (Domain),1,4
+2026,22-01-2026,2,Mathematics,3D Geometry (Lines),1,4
+2026,22-01-2026,2,Mathematics,Functions (Continuity),1,4
+2026,22-01-2026,2,Mathematics,Probability + System of Equations,1,4
+2026,22-01-2026,2,Mathematics,Sequences & Series (AP/GP),1,4
+2026,22-01-2026,2,Mathematics,Vector Algebra (Angle),1,4
+2026,22-01-2026,2,Mathematics,Definite Integrals,1,4
+2026,22-01-2026,2,Mathematics,Sets & Relations (Counting),1,4
+2026,22-01-2026,2,Mathematics,Trigonometric Equations,1,4
+2026,22-01-2026,2,Physics,Dual Nature (Photoelectric Effect),1,4
+2026,22-01-2026,2,Physics,Electromagnetic Waves,1,4
+2026,22-01-2026,2,Physics,Ray Optics (Refractive Index),1,4
+2026,22-01-2026,2,Physics,Surface Tension (Capillarity),1,4
+2026,22-01-2026,2,Physics,Kinetic Theory of Gases,1,4
+2026,22-01-2026,2,Physics,Electrostatics (Potential & Field),1,4
+2026,22-01-2026,2,Physics,Atomic Physics (Hydrogen Spectrum),1,4
+2026,22-01-2026,2,Physics,Current Electricity + Inductance,1,4
+2026,22-01-2026,2,Physics,Simple Pendulum (Graph/Error),1,4
+2026,22-01-2026,2,Physics,Work Energy Power (Conservative Forces),1,4
+2026,22-01-2026,2,Physics,Units & Dimensions,1,4
+2026,22-01-2026,2,Physics,Gravitation (Satellite),1,4
+2026,22-01-2026,2,Physics,Waves (Organ Pipe),1,4
+2026,22-01-2026,2,Physics,Rotational Motion,1,4
+2026,22-01-2026,2,Physics,Ray Optics (Concave Mirror),1,4
+2026,22-01-2026,2,Physics,Work-Energy Theorem (Many-particle),1,4
+2026,22-01-2026,2,Physics,Electrostatics (Bubbles),1,4
+2026,22-01-2026,2,Chemistry,"Alcohols, Phenols and Ethers",1,4
+2026,22-01-2026,2,Chemistry,Classification of Elements & Periodicity,2,8
+2026,22-01-2026,2,Chemistry,Biomolecules (Carbohydrates),1,4
+2026,22-01-2026,2,Chemistry,Hydrocarbons (Alkynes),1,4
+2026,22-01-2026,2,Chemistry,Electrochemistry (Redox & Electrode Potential),1,4
+2026,22-01-2026,2,Chemistry,Solutions (Concentration Terms),1,4
+2026,22-01-2026,2,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",1,4
+2026,22-01-2026,2,Chemistry,Coordination Compounds,1,4
+2026,22-01-2026,2,Chemistry,p-Block Elements,1,4
+2026,22-01-2026,2,Chemistry,Chemical Kinetics,1,4
+2026,22-01-2026,2,Chemistry,Ionic Equilibrium (Buffer Solutions),1,4
+2026,22-01-2026,2,Chemistry,Chemical Bonding & Molecular Structure,1,4
+2026,22-01-2026,2,Chemistry,Some Basic Concepts of Chemistry (Titration/Standard),1,4
+2026,22-01-2026,2,Chemistry,Organic Chemistry - Practical (Kjeldahl's Method),1,4
+2026,22-01-2026,2,Chemistry,Organic Chemistry - Nomenclature,1,4
+2026,22-01-2026,2,Chemistry,Some Basic Concepts of Chemistry (Stoichiometry),1,4
+2026,22-01-2026,2,Chemistry,Hydrocarbons (Alkyl Halides to Alkynes),1,4
+2026,22-01-2026,2,Chemistry,Amines,1,4
+2026,22-01-2026,2,Chemistry,Atomic Structure,1,4
+2026,22-01-2026,2,Chemistry,Electrochemistry (Nernst Equation),1,4
+2026,22-01-2026,2,Chemistry,Chemical Kinetics (Arrhenius Equation),1,4
+2026,22-01-2026,2,Chemistry,d-Block Elements (Oxides),1,4
+2026,22-01-2026,2,Chemistry,Chemical Bonding (Born-Haber Cycle),1,4
+2026,22-01-2026,2,Chemistry,Amines (Benzoylation),1,4
+2026,23-01-2026,1,Mathematics,3D Geometry,2,8
+2026,23-01-2026,1,Mathematics,Definite Integration,2,8
+2026,23-01-2026,1,Mathematics,Differential Equations,2,8
+2026,23-01-2026,1,Mathematics,Determinants & Matrices,2,8
+2026,23-01-2026,1,Mathematics,Functions,2,8
+2026,23-01-2026,1,Mathematics,Quadratic Equations & Theory of Equations,2,8
+2026,23-01-2026,1,Mathematics,Binomial Theorem,2,8
+2026,23-01-2026,1,Mathematics,Probability,1,4
+2026,23-01-2026,1,Mathematics,Permutation & Combination,1,4
+2026,23-01-2026,1,Mathematics,Vector Algebra,1,4
+2026,23-01-2026,1,Mathematics,Straight Lines,1,4
+2026,23-01-2026,1,Mathematics,Conic Sections (Ellipse & Hyperbola),1,4
+2026,23-01-2026,1,Mathematics,Sets & Relations,1,4
+2026,23-01-2026,1,Mathematics,Indefinite Integration,1,4
+2026,23-01-2026,1,Mathematics,Statistics,1,4
+2026,23-01-2026,1,Mathematics,Trigonometric Equations,1,4
+2026,23-01-2026,1,Mathematics,Complex Numbers,1,4
+2026,23-01-2026,1,Mathematics,Trigonometric Ratios & Identities,1,4
+2026,23-01-2026,1,Physics,Electromagnetic Induction (EMI),3,12
+2026,23-01-2026,1,Physics,Ray Optics,2,8
+2026,23-01-2026,1,Physics,"Work, Power & Energy / Circular Motion",2,8
+2026,23-01-2026,1,Physics,"Units, Dimensions & Experimental Errors",2,8
+2026,23-01-2026,1,Physics,Rotational Motion,2,8
+2026,23-01-2026,1,Physics,Dual Nature of Radiation & Matter,1,4
+2026,23-01-2026,1,Physics,Simple Harmonic Motion (SHM),1,4
+2026,23-01-2026,1,Physics,Current Electricity,1,4
+2026,23-01-2026,1,Physics,Mechanical Properties of Solids,1,4
+2026,23-01-2026,1,Physics,Semiconductors (Zener Diode),1,4
+2026,23-01-2026,1,Physics,Atoms (Modern Physics),1,4
+2026,23-01-2026,1,Physics,Projectile Motion (Kinematics),1,4
+2026,23-01-2026,1,Physics,Electrostatics (Gauss's Law),1,4
+2026,23-01-2026,1,Physics,Center of Mass & Collisions,1,4
+2026,23-01-2026,1,Physics,Magnetism & Matter,1,4
+2026,23-01-2026,1,Physics,Electromagnetic Waves (EMW),1,4
+2026,23-01-2026,1,Physics,Alternating Current (LCR Circuit),1,4
+2026,23-01-2026,1,Physics,Wave Optics (YDSE),1,4
+2026,23-01-2026,1,Physics,Capacitance,1,4
+2026,23-01-2026,1,Chemistry,Coordination Compounds,3,12
+2026,23-01-2026,1,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",2,8
+2026,23-01-2026,1,Chemistry,Haloalkanes & Haloarenes,2,8
+2026,23-01-2026,1,Chemistry,Chemical Equilibrium,2,8
+2026,23-01-2026,1,Chemistry,Solutions (Liquid Solutions),2,8
+2026,23-01-2026,1,Chemistry,Atomic Structure,2,8
+2026,23-01-2026,1,Chemistry,Hydrocarbons (Alkynes & Benzene),2,8
+2026,23-01-2026,1,Chemistry,Practical Organic Chemistry (Qualitative Analysis),1,4
+2026,23-01-2026,1,Chemistry,Chemical Kinetics,1,4
+2026,23-01-2026,1,Chemistry,Classification of Elements & Periodicity,1,4
+2026,23-01-2026,1,Chemistry,Electrochemistry,1,4
+2026,23-01-2026,1,Chemistry,Amines,1,4
+2026,23-01-2026,1,Chemistry,Thermodynamics,1,4
+2026,23-01-2026,1,Chemistry,Biomolecules,1,4
+2026,23-01-2026,1,Chemistry,Chemical Bonding & Molecular Structure,1,4
+2026,23-01-2026,1,Chemistry,Purification & Characterisation of Organic Compounds,1,4
+2026,23-01-2026,1,Chemistry,p-Block Elements (Group 13),1,4
+2026,23-01-2026,2,Mathematics,"Conic Sections (Ellipse, Hyperbola, Parabola)",3,12
+2026,23-01-2026,2,Mathematics,Determinants & Matrices,2,8
+2026,23-01-2026,2,Mathematics,Vector Algebra,2,8
+2026,23-01-2026,2,Mathematics,Functions & Relations,2,8
+2026,23-01-2026,2,Mathematics,Permutation & Combination,2,8
+2026,23-01-2026,2,Mathematics,Trigonometric Ratios & Identities,2,8
+2026,23-01-2026,2,Mathematics,Differential Equations,2,8
+2026,23-01-2026,2,Mathematics,"Limits, Continuity & Differentiability",1,4
+2026,23-01-2026,2,Mathematics,Straight Lines,1,4
+2026,23-01-2026,2,Mathematics,Quadratic Equations & Logarithms,1,4
+2026,23-01-2026,2,Mathematics,Probability,1,4
+2026,23-01-2026,2,Mathematics,Area Under Curves (Application of Integrals),1,4
+2026,23-01-2026,2,Mathematics,Indefinite Integration,1,4
+2026,23-01-2026,2,Mathematics,Complex Numbers,1,4
+2026,23-01-2026,2,Mathematics,Statistics,1,4
+2026,23-01-2026,2,Mathematics,Sequences & Series,1,4
+2026,23-01-2026,2,Mathematics,3D Geometry,1,4
+2026,23-01-2026,2,Physics,Thermodynamics & Kinetic Theory of Gases,2,8
+2026,23-01-2026,2,Physics,Electrostatics,2,8
+2026,23-01-2026,2,Physics,Ray Optics,2,8
+2026,23-01-2026,2,Physics,Electromagnetic Induction (EMI),2,8
+2026,23-01-2026,2,Physics,"Units, Dimensions & Experimental Errors",2,8
+2026,23-01-2026,2,Physics,Atoms & Nuclei (Modern Physics),2,8
+2026,23-01-2026,2,Physics,Center of Mass & Collisions,1,4
+2026,23-01-2026,2,Physics,Laws of Motion & Friction,1,4
+2026,23-01-2026,2,Physics,Magnetic Effects of Current,1,4
+2026,23-01-2026,2,Physics,Kinematics,1,4
+2026,23-01-2026,2,Physics,"Work, Power & Energy",1,4
+2026,23-01-2026,2,Physics,Capacitance,1,4
+2026,23-01-2026,2,Physics,Mechanical Properties of Fluids,1,4
+2026,23-01-2026,2,Physics,Semiconductors (Logic Gates),1,4
+2026,23-01-2026,2,Physics,Electromagnetic Waves (EMW),1,4
+2026,23-01-2026,2,Physics,Wave Optics (Polarization),1,4
+2026,23-01-2026,2,Physics,Rotational Motion,1,4
+2026,23-01-2026,2,Physics,Waves & Sound,1,4
+2026,23-01-2026,2,Physics,Current Electricity (Potentiometer),1,4
+2026,23-01-2026,2,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",3,12
+2026,23-01-2026,2,Chemistry,Chemical Kinetics,2,8
+2026,23-01-2026,2,Chemistry,Redox Reactions,2,8
+2026,23-01-2026,2,Chemistry,Coordination Compounds,2,8
+2026,23-01-2026,2,Chemistry,Amines,2,8
+2026,23-01-2026,2,Chemistry,Atomic Structure,2,8
+2026,23-01-2026,2,Chemistry,p-Block Elements,2,8
+2026,23-01-2026,2,Chemistry,Electrochemistry,1,4
+2026,23-01-2026,2,Chemistry,Biomolecules,1,4
+2026,23-01-2026,2,Chemistry,General Organic Chemistry (GOC),1,4
+2026,23-01-2026,2,Chemistry,Classification of Elements & Periodicity,1,4
+2026,23-01-2026,2,Chemistry,Hydrocarbons,1,4
+2026,23-01-2026,2,Chemistry,Chemical Bonding & Molecular Structure,1,4
+2026,23-01-2026,2,Chemistry,Purification & Quantitative Analysis,1,4
+2026,23-01-2026,2,Chemistry,"Alcohols, Phenols & Ethers",1,4
+2026,23-01-2026,2,Chemistry,Chemical Equilibrium,1,4
+2026,23-01-2026,2,Chemistry,Solutions,1,4
+2026,24-01-2026,1,Mathematics,"Limits, Continuity & Differentiability",2,8
+2026,24-01-2026,1,Mathematics,3D Geometry,2,8
+2026,24-01-2026,1,Mathematics,Sequences & Series,2,8
+2026,24-01-2026,1,Mathematics,Trigonometric Ratios & Identities,2,8
+2026,24-01-2026,1,Mathematics,Coordinate Geometry (Straight Lines & Circles),2,8
+2026,24-01-2026,1,Mathematics,Conic Sections (Ellipse),1,4
+2026,24-01-2026,1,Mathematics,Vector Algebra,1,4
+2026,24-01-2026,1,Mathematics,Functions,1,4
+2026,24-01-2026,1,Mathematics,Complex Numbers,1,4
+2026,24-01-2026,1,Mathematics,Indefinite Integration,1,4
+2026,24-01-2026,1,Mathematics,Definite Integration,1,4
+2026,24-01-2026,1,Mathematics,Area Under Curves,1,4
+2026,24-01-2026,1,Mathematics,Application of Derivatives,1,4
+2026,24-01-2026,1,Mathematics,Sets & Relations,1,4
+2026,24-01-2026,1,Mathematics,Binomial Theorem,1,4
+2026,24-01-2026,1,Mathematics,Probability,1,4
+2026,24-01-2026,1,Mathematics,Statistics,1,4
+2026,24-01-2026,1,Mathematics,Quadratic Equations,1,4
+2026,24-01-2026,1,Mathematics,Permutation & Combination,1,4
+2026,24-01-2026,1,Mathematics,Matrices & Determinants,1,4
+2026,24-01-2026,1,Physics,Electrostatics,3,12
+2026,24-01-2026,1,Physics,Ray Optics,2,8
+2026,24-01-2026,1,Physics,Current Electricity,2,8
+2026,24-01-2026,1,Physics,Laws of Motion,2,8
+2026,24-01-2026,1,Physics,Units & Dimensions,1,4
+2026,24-01-2026,1,Physics,Simple Harmonic Motion,1,4
+2026,24-01-2026,1,Physics,Thermodynamics,1,4
+2026,24-01-2026,1,Physics,Atoms,1,4
+2026,24-01-2026,1,Physics,Alternating Current,1,4
+2026,24-01-2026,1,Physics,Electromagnetic Waves,1,4
+2026,24-01-2026,1,Physics,Nuclei,1,4
+2026,24-01-2026,1,Physics,Mechanical Properties of Solids,1,4
+2026,24-01-2026,1,Physics,Rotational Motion,1,4
+2026,24-01-2026,1,Physics,Wave Optics,1,4
+2026,24-01-2026,1,Physics,Kinematics,1,4
+2026,24-01-2026,1,Physics,Gravitation,1,4
+2026,24-01-2026,1,Physics,Magnetism & Matter,1,4
+2026,24-01-2026,1,Physics,Kinetic Theory of Gases,1,4
+2026,24-01-2026,1,Physics,Semiconductors,1,4
+2026,24-01-2026,1,Physics,Mechanical Properties of Fluids,1,4
+2026,24-01-2026,1,Chemistry,Coordination Compounds,3,12
+2026,24-01-2026,1,Chemistry,General Organic Chemistry,3,12
+2026,24-01-2026,1,Chemistry,Chemical Kinetics,2,8
+2026,24-01-2026,1,Chemistry,Chemical Bonding & Molecular Structure,2,8
+2026,24-01-2026,1,Chemistry,Solutions,2,8
+2026,24-01-2026,1,Chemistry,Haloalkanes & Haloarenes,2,8
+2026,24-01-2026,1,Chemistry,"Alcohols, Phenols & Ethers",2,8
+2026,24-01-2026,1,Chemistry,Qualitative Inorganic Analysis (Salt Analysis),1,4
+2026,24-01-2026,1,Chemistry,Thermodynamics,1,4
+2026,24-01-2026,1,Chemistry,Biomolecules,1,4
+2026,24-01-2026,1,Chemistry,Classification of Elements & Periodicity,1,4
+2026,24-01-2026,1,Chemistry,Electrochemistry,1,4
+2026,24-01-2026,1,Chemistry,Ionic Equilibrium,1,4
+2026,24-01-2026,1,Chemistry,Atomic Structure,1,4
+2026,24-01-2026,1,Chemistry,Purification & Characterisation of Organic Compounds,1,4
+2026,24-01-2026,1,Chemistry,Redox Reactions,1,4
+2026,24-01-2026,2,Mathematics,"Conic Sections (Circle, Parabola & Ellipse)",3,12
+2026,24-01-2026,2,Mathematics,Determinants & Matrices,2,8
+2026,24-01-2026,2,Mathematics,Vector Algebra,2,8
+2026,24-01-2026,2,Mathematics,Sequences and Series,2,8
+2026,24-01-2026,2,Mathematics,Permutation & Combination,2,8
+2026,24-01-2026,2,Mathematics,Functions,2,8
+2026,24-01-2026,2,Mathematics,"Limits, Continuity & Differentiability",2,8
+2026,24-01-2026,2,Mathematics,Straight Lines,1,4
+2026,24-01-2026,2,Mathematics,3D Geometry,1,4
+2026,24-01-2026,2,Mathematics,Area Under Curves,1,4
+2026,24-01-2026,2,Mathematics,Statistics,1,4
+2026,24-01-2026,2,Mathematics,Differential Equations,1,4
+2026,24-01-2026,2,Mathematics,Quadratic Equations & Theory of Equations,1,4
+2026,24-01-2026,2,Mathematics,Definite Integration,1,4
+2026,24-01-2026,2,Mathematics,Complex Numbers,1,4
+2026,24-01-2026,2,Mathematics,Probability,1,4
+2026,24-01-2026,2,Mathematics,Trigonometric Equations,1,4
+2026,24-01-2026,2,Physics,Current Electricity,3,12
+2026,24-01-2026,2,Physics,Ray Optics,2,8
+2026,24-01-2026,2,Physics,Rotational Motion,2,8
+2026,24-01-2026,2,Physics,Magnetic Effects of Current,2,8
+2026,24-01-2026,2,Physics,Waves & Sound,2,8
+2026,24-01-2026,2,Physics,Mechanical Properties of Fluids,2,8
+2026,24-01-2026,2,Physics,Thermodynamics & KTG,2,8
+2026,24-01-2026,2,Physics,"Units, Dimensions & Experimental Errors",1,4
+2026,24-01-2026,2,Physics,"Work, Power & Energy / Circular Motion",1,4
+2026,24-01-2026,2,Physics,Dual Nature of Radiation & Matter,1,4
+2026,24-01-2026,2,Physics,Capacitance,1,4
+2026,24-01-2026,2,Physics,Nuclei,1,4
+2026,24-01-2026,2,Physics,Semiconductors,1,4
+2026,24-01-2026,2,Physics,Laws of Motion,1,4
+2026,24-01-2026,2,Physics,Wave Optics,1,4
+2026,24-01-2026,2,Physics,Kinematics,1,4
+2026,24-01-2026,2,Physics,Electrostatics,1,4
+2026,24-01-2026,2,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",3,12
+2026,24-01-2026,2,Chemistry,Solutions,2,8
+2026,24-01-2026,2,Chemistry,Coordination Compounds,2,8
+2026,24-01-2026,2,Chemistry,Amines,2,8
+2026,24-01-2026,2,Chemistry,p-Block Elements,1,4
+2026,24-01-2026,2,Chemistry,Biomolecules,1,4
+2026,24-01-2026,2,Chemistry,Chemical Equilibrium,1,4
+2026,24-01-2026,2,Chemistry,Chemical Bonding & Molecular Structure,1,4
+2026,24-01-2026,2,Chemistry,Redox Reactions & Mole Concept,1,4
+2026,24-01-2026,2,Chemistry,General Organic Chemistry (GOC),1,4
+2026,24-01-2026,2,Chemistry,Classification of Elements & Periodicity,1,4
+2026,24-01-2026,2,Chemistry,Salt Analysis (Qualitative Analysis),1,4
+2026,24-01-2026,2,Chemistry,Atomic Structure,1,4
+2026,24-01-2026,2,Chemistry,"Alcohols, Phenols & Ethers",1,4
+2026,24-01-2026,2,Chemistry,Thermodynamics,1,4
+2026,24-01-2026,2,Chemistry,d- and f-Block Elements,1,4
+2026,24-01-2026,2,Chemistry,Hydrocarbons,1,4
+2026,24-01-2026,2,Chemistry,Purification & Characterisation of Organic Compounds,1,4
+2026,24-01-2026,2,Chemistry,Chemical Kinetics,1,4
+2026,24-01-2026,2,Chemistry,Electrochemistry,1,4
+2026,28-01-2026,1,Mathematics,Vector Algebra,3,12
+2026,28-01-2026,1,Mathematics,Sequences & Series,3,12
+2026,28-01-2026,1,Mathematics,Definite Integration,3,12
+2026,28-01-2026,1,Mathematics,Quadratic Equations,2,8
+2026,28-01-2026,1,Mathematics,Functions,1,4
+2026,28-01-2026,1,Mathematics,Circles,1,4
+2026,28-01-2026,1,Mathematics,Trigonometric Ratios & Identities,1,4
+2026,28-01-2026,1,Mathematics,Straight Lines,1,4
+2026,28-01-2026,1,Mathematics,Permutation & Combination,1,4
+2026,28-01-2026,1,Mathematics,Probability,1,4
+2026,28-01-2026,1,Mathematics,Indefinite Integration,1,4
+2026,28-01-2026,1,Mathematics,Limits,1,4
+2026,28-01-2026,1,Mathematics,Statistics,1,4
+2026,28-01-2026,1,Mathematics,Matrices & Determinants,1,4
+2026,28-01-2026,1,Mathematics,3D Geometry,1,4
+2026,28-01-2026,1,Mathematics,Differential Equations,1,4
+2026,28-01-2026,1,Mathematics,Conic Sections (Ellipse & Hyperbola),1,4
+2026,28-01-2026,1,Mathematics,Inverse Trigonometric Functions,1,4
+2026,28-01-2026,1,Physics,Thermodynamics & Calorimetry,3,12
+2026,28-01-2026,1,Physics,Current Electricity,3,12
+2026,28-01-2026,1,Physics,Kinematics & Laws of Motion,3,12
+2026,28-01-2026,1,Physics,Rotational Motion,2,8
+2026,28-01-2026,1,Physics,Magnetic Effects of Current,2,8
+2026,28-01-2026,1,Physics,Ray Optics,2,8
+2026,28-01-2026,1,Physics,Alternating Current,1,4
+2026,28-01-2026,1,Physics,Atoms & Nuclei,1,4
+2026,28-01-2026,1,Physics,Electromagnetic Waves,1,4
+2026,28-01-2026,1,Physics,Semiconductors,1,4
+2026,28-01-2026,1,Physics,Mechanical Properties of Solids,1,4
+2026,28-01-2026,1,Physics,Wave Optics,1,4
+2026,28-01-2026,1,Physics,"Units, Dimensions & Experimental Errors",1,4
+2026,28-01-2026,1,Physics,Electrostatics,1,4
+2026,28-01-2026,1,Physics,Simple Harmonic Motion,1,4
+2026,28-01-2026,1,Physics,Dual Nature of Radiation & Matter,1,4
+2026,28-01-2026,1,Chemistry,Ionic Equilibrium,2,8
+2026,28-01-2026,1,Chemistry,Hydrocarbons,2,8
+2026,28-01-2026,1,Chemistry,Atomic Structure,2,8
+2026,28-01-2026,1,Chemistry,Coordination Compounds,2,8
+2026,28-01-2026,1,Chemistry,Thermodynamics,1,4
+2026,28-01-2026,1,Chemistry,General Organic Chemistry (GOC),1,4
+2026,28-01-2026,1,Chemistry,Solutions,1,4
+2026,28-01-2026,1,Chemistry,"Alcohols, Phenols & Ethers",1,4
+2026,28-01-2026,1,Chemistry,Haloalkanes & Haloarenes,1,4
+2026,28-01-2026,1,Chemistry,Chemical Kinetics,1,4
+2026,28-01-2026,1,Chemistry,Aldehydes & Ketones,1,4
+2026,28-01-2026,1,Chemistry,Chemical Bonding & Molecular Structure,1,4
+2026,28-01-2026,1,Chemistry,p-Block Elements (Group 15),1,4
+2026,28-01-2026,1,Chemistry,Qualitative Analysis (Practical Chemistry),1,4
+2026,28-01-2026,1,Chemistry,Amines,1,4
+2026,28-01-2026,1,Chemistry,Biomolecules,1,4
+2026,28-01-2026,1,Chemistry,d & f Block Elements,1,4
+2026,28-01-2026,1,Chemistry,Classification of Elements & Periodicity,1,4
+2026,28-01-2026,1,Chemistry,Redox Reactions & Volumetric Analysis,1,4
+2026,28-01-2026,1,Chemistry,Electrochemistry,1,4
+2026,28-01-2026,1,Chemistry,Quantitative Analysis of Organic Compounds,1,4
+2026,28-01-2026,2,Mathematics,"Conic Sections (Parabola, Ellipse & Hyperbola)",3,12
+2026,28-01-2026,2,Mathematics,Sequence & Series,3,12
+2026,28-01-2026,2,Mathematics,Definite Integration,2,8
+2026,28-01-2026,2,Mathematics,Functions,2,8
+2026,28-01-2026,2,Mathematics,Binomial Theorem,2,8
+2026,28-01-2026,2,Mathematics,3D Geometry,2,8
+2026,28-01-2026,2,Mathematics,Inverse Trigonometric Functions,1,4
+2026,28-01-2026,2,Mathematics,Probability,1,4
+2026,28-01-2026,2,Mathematics,Circles,1,4
+2026,28-01-2026,2,Mathematics,Vector Algebra,1,4
+2026,28-01-2026,2,Mathematics,"Limits, Continuity & Differentiability",1,4
+2026,28-01-2026,2,Mathematics,Area Under Curves,1,4
+2026,28-01-2026,2,Mathematics,Differential Equations,1,4
+2026,28-01-2026,2,Mathematics,Indefinite Integration,1,4
+2026,28-01-2026,2,Mathematics,Complex Numbers,1,4
+2026,28-01-2026,2,Mathematics,Permutation & Combination,1,4
+2026,28-01-2026,2,Mathematics,Matrices & Determinants,1,4
+2026,28-01-2026,2,Physics,"Units, Dimensions & Experimental Errors",3,12
+2026,28-01-2026,2,Physics,Current Electricity,2,8
+2026,28-01-2026,2,Physics,Waves & Sound,2,8
+2026,28-01-2026,2,Physics,Rotational Motion,2,8
+2026,28-01-2026,2,Physics,Ray Optics,2,8
+2026,28-01-2026,2,Physics,Electrostatics,1,4
+2026,28-01-2026,2,Physics,Kinematics,1,4
+2026,28-01-2026,2,Physics,Kinetic Theory of Gases (KTG),1,4
+2026,28-01-2026,2,Physics,Electromagnetic Waves (EMW),1,4
+2026,28-01-2026,2,Physics,Nuclei (Modern Physics),1,4
+2026,28-01-2026,2,Physics,Magnetic Effects of Current,1,4
+2026,28-01-2026,2,Physics,Capacitance,1,4
+2026,28-01-2026,2,Physics,Simple Harmonic Motion (SHM),1,4
+2026,28-01-2026,2,Physics,Dual Nature of Radiation & Matter,1,4
+2026,28-01-2026,2,Physics,Laws of Motion,1,4
+2026,28-01-2026,2,Physics,Semiconductors (Logic Gates),1,4
+2026,28-01-2026,2,Physics,Thermodynamics,1,4
+2026,28-01-2026,2,Physics,Alternating Current (AC),1,4
+2026,28-01-2026,2,Physics,Wave Optics (YDSE),1,4
+2026,28-01-2026,2,Chemistry,Coordination Compounds,2,8
+2026,28-01-2026,2,Chemistry,Amines,2,8
+2026,28-01-2026,2,Chemistry,Atomic Structure,2,8
+2026,28-01-2026,2,Chemistry,Electrochemistry,2,8
+2026,28-01-2026,2,Chemistry,Purification & Characterisation of Organic Compounds,1,4
+2026,28-01-2026,2,Chemistry,Haloalkanes & Haloarenes,1,4
+2026,28-01-2026,2,Chemistry,Some Basic Concepts of Chemistry (Mole Concept),1,4
+2026,28-01-2026,2,Chemistry,p-Block Elements (Group 17),1,4
+2026,28-01-2026,2,Chemistry,Chemical Equilibrium,1,4
+2026,28-01-2026,2,Chemistry,Classification of Elements & Periodicity,1,4
+2026,28-01-2026,2,Chemistry,General Organic Chemistry (GOC),1,4
+2026,28-01-2026,2,Chemistry,Hydrocarbons,1,4
+2026,28-01-2026,2,Chemistry,"Alcohols, Phenols & Ethers",1,4
+2026,28-01-2026,2,Chemistry,Thermodynamics,1,4
+2026,28-01-2026,2,Chemistry,d- and f-Block Elements,1,4
+2026,28-01-2026,2,Chemistry,Solutions (Liquid Solutions),1,4
+2026,28-01-2026,2,Chemistry,Chemical Bonding & Molecular Structure,1,4
+2026,28-01-2026,2,Chemistry,Qualitative Analysis (Salt Analysis),1,4
+2026,28-01-2026,2,Chemistry,Biomolecules,1,4
+2026,28-01-2026,2,Chemistry,"Aldehydes, Ketones & Carboxylic Acids",1,4
+2026,28-01-2026,2,Chemistry,Chemical Kinetics,1,4
